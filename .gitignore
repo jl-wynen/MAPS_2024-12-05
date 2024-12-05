@@ -6,3 +6,7 @@ data
 *.nxs
 *.h5
 &.hdf5
+
+# Jupyter
+.virtual_documents
+.ipynb_checkpoints
