@@ -1,0 +1,8 @@
+# Data
+data
+*.raw
+*.nxspe
+*.sqw
+*.nxs
+*.h5
+&.hdf5
